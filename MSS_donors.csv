@@ -1,0 +1,564 @@
+Year,Month,Day,First,Middle,Last,Location,Amount
+1855,8,7,asa,,hutchinson,,25
+1855,8,7,hannah,b,hutchinson,,25
+1855,8,22,mary,,moulton,wayne,0.25
+1855,11,12,carleton,,parker,wayne,10
+1855,12,26,thomas,,parker,,100
+1855,12,26,r,,cram,portland,25
+1855,12,26,james,,mann,gorham,5
+1855,12,26,susan,,fletcher,mt. hebron,5
+1855,12,26,john,w,dyer,new sharon,5
+1855,12,26,c,,shelfield,harpswell,10
+1855,12,26,george,,libbey,westbrook,5
+1855,12,26,james,,whittney,madison,5
+1855,12,26,mary,b,snow,hallowell,5
+1855,12,26,maria,c,fairbanks,wayne,10
+1855,12,26,minor,,gott,wayne,5
+1855,12,26,andrew,b,bigelow,wayne,5
+1855,12,26,mary,,moulton,wayne,5
+1855,12,26,richard,w,shepleigh,boston,10
+1855,12,26,s ,l,carlton,portland,5
+1855,12,26,neil,,dow,portland,25
+1855,12,26,e,r,wicks,sidney,15
+1855,12,26,john,,twittshill,plymoutth,5
+1855,12,26,richard,,ford,monroe,5
+1855,12,26,phebe,t,knowlton,montville,25
+1855,12,26,robert,,seward,garland,5
+1855,12,26,sophia,,coombs,bradford,5
+1856,1,29,thomas,,wilson,wayne,25
+1856,2,2,allen,,lewis,boothbay,100
+1856,2,2,thomas,,hodgdon,boothbay,125
+1856,2,8,mary,,moulton,wayne,10
+1856,2,11,alocum,,cassia,farmington,50
+1856,2,23,wm.,,libby,portland,20
+1856,3,8,jason,,metcalf,monmouth,10
+1856,3,8,william,,wilson,bowdoin,35
+1856,3,8,eunice,,chamberlain,gardiner,5
+1856,3,8,b,,goodrich,gardiner,5.05
+1856,3,8,c,o,libby,parsonsfield,10
+1856,4,14,john,h,cook,portland,25
+1856,5,5,a friend,,,,0.25
+1856,5,5,george,h,nealey,south brunswick,25
+1856,5,5,mark,,easthall,litchfield,75
+1856,5,5,c,c,willey,lewiston,0.62
+1856,5,5,roberta,,heart,brunswick,0.3
+1856,5,5,abial,,stinmon,richmond,5
+1856,5,5,william,,stone,biddeford,5
+1856,5,5,eliljah,,smith,saco,10
+1856,5,5,cythnia,w,downing,saco,5
+1856,5,5,mary,j,smith,saco,5
+1856,5,5,e,h c,bradbury,saco,5
+1856,5,5,hannah,a,goodwin,wells,4
+1856,5,5,thomas,h c,kimball,biddeford,5
+1856,5,5,tobias,,scranton,saco,10
+1856,5,5,william,,wexton,saco,2
+1856,5,5,eoin,,alexander,richmond,5
+1856,5,5,thomas ,r,doro,vienna,5
+1856,5,5,hiram,,hines,hartford,10
+1856,5,5,h,m,vaughan,new vineyard,5
+1856,5,5,susan,,farwell,pittsfield ,5
+1856,5,5,seth,,hammon,saco,10
+1856,5,5,seth,,hathorn,woolwich,200
+1856,5,5,daniel,,coombs,bowdoin,25
+1856,5,12,melvinell,h,bean,saco,5
+1856,6,9,s,,adorett,,195
+1856,6,14,seth,,hathron,,100
+1856,6,16,sanford,,pullen,waterville,10
+1856,6,16,william,,wynan,waterville ,10
+1856,6,16,sarah,,ege,waterville ,7
+1856,6,16,hannah,,baily,waterville,5
+1856,6,16,,pernott,hill,waterville ,3
+1856,6,16,mary,s,moulton,wayne,1
+1856,6,16,susanna,c,moulton,wayne,1
+1856,6,16,samuel,,merrill,gardiner,26
+1856,6,16,benjamin,c,gardina,wayne,25
+1856,6,16,a,p,snow,winthrop,10
+1856,6,16,jenny,,adaoart,,6
+1856,6,17,seth,,hathorn,woolwich,300
+1856,6,20,john,,bragg,sidney ,5
+1856,6,27,a friend,,,,10
+1856,6,27,theodore,,stevens,,5
+1856,6,27,g.,w,barrows,,5
+1856,6,27,samuel,,farmham,,50
+1856,7,4,thomas ,,parker,farmington,200
+1856,7,4,george,,wheeler,farmington,5
+1856,7,4,william ,,howard,wilton,5
+1856,7,8,h,h,hay,portland,5
+1856,7,12,john,,stevens,north berwick,10
+1856,7,14,william ,s,wilson,portland,20
+1856,7,19,william ,,elliott,readfield,50
+1856,7,19,john,,baskins,farmington,25
+1856,7,19,charles,b. ,sylvesters,phillips,25
+1856,7,19,abram,,woodard,bangor,100
+1856,7,23,samuel,,wheeler,phillips,50
+1856,7,28,william ,,willarel,portland,25
+1856,8,7,robert,,spring,boothbay ,25
+1856,8,7,a friend,,,,0.5
+1856,8,7,a friend,,,woolwich,2
+1856,8,7,nathaniel,,gammon,phillips,0.5
+1856,8,7,e,d,gammon,phillips,0.5
+1856,8,7,stephen,,lowell,greene,0.5
+1856,8,7,josiah,j,silly,woolwich,5
+1856,8,7,susan,c,hodgson,westport,2
+1856,8,7,rowhen,,wright,woolwich,1
+1856,8,7,rowhen,d.,wright,woolwich,5
+1856,8,7,r,,wright,woolwich,1
+1856,8,7,jesse ,,white,westport,5
+1856,8,7,olive,,white,westport,1
+1856,8,7,ebenezer,m,henney,westport,1
+1856,8,7,cyrus,,hodgson,westport,10
+1856,8,7,stephen,g,hodgson,boothbay,25
+1856,8,7,james,,jebhoth ,boothbay ,10
+1856,8,7,alfred,,matthews,boothbay ,5
+1856,8,7,austin,,greenleaf,georgetown,10
+1856,8,15,hartly,w,dunton,westport,25
+1856,9,10,chandler,,randall,south harpswell,50
+1856,9,10,w,g,simmons,georgetown,2
+1856,9,10,william,,oliver,georgetown,5
+1856,9,10,alexander,,campbell,georgetown,5
+1856,9,10,w,j,todd,georgetown,2
+1856,9,10,lucy,n,goggwell,bath,1
+1856,9,10,frederick,h,morse,bath,10
+1856,9,10,horea,,hildreth,bath,20
+1856,9,10,hartly,w,lewton,bath,5
+1856,9,10,martha,f,hedge,bath,5
+1856,9,10,harmon,,potter,bath,10
+1856,9,10,drummond,,cuthing,phippsburg,2
+1856,9,10,alex,,wyman,phippsburg,1
+1856,9,10,campbell,,wyman,phippsburg,1
+1856,9,10,james,d ,shragne,phippsburg,1
+1856,9,10,mary,p,snow,harpswell,5
+1856,9,10,e,h,weeks,sidney,10
+1856,9,10,levi,a,weeks,sidney,5
+1856,9,15,amanda,m,lemont,bath,1
+1856,9,16,g,,howlton,,2000
+1856,9,24,joseph,,rich,jackson,25
+1856,9,24,melanie,,sanborn,gorham,25
+1856,9,24,l,s,deberk,holden,10
+1856,9,24,william,,ball,south atkinson,5
+1856,9,24,a,,farmer,veazie,5
+1856,9,24,p,b,sonle,lagrange,25
+1856,9,24,amos,,rich,charleston,10
+1856,9,24,robert,,seward,garland,10
+1856,9,24,s,m,haggett,chester,10
+1856,9,24,william,,burkman,lisbon,404
+1856,10,24,c,j,morris,portland,25
+1856,10,24,w,p,felsenden,portland,100
+1856,10,29,stephen,g,hodgdon,boothbay,75
+1856,10,29,benjamin,,grover,woolwich,5
+1856,11,3,j,g,white,wiscasset,10
+1856,11,3,enoch,j,oliver,georgetown,5
+1856,11,3,samuel,n,royal,topsham,1
+1856,11,3,william,,whitten,topsham,10
+1856,11,5,james,a,barney,brooks,5
+1856,11,10,a,b,hipell,corinth,2
+1856,11,10,john,,hipell,corinth,25
+1856,11,18,samuel,,eldin,buxton,26
+1856,11,18,j,d,clements,monroe,25
+1856,11,18,benjamin,,evans,exeter,25
+1856,11,18,s,b,bichford,east dixmount,10
+1856,11,18,loring,,sweet,farmington,25
+1856,11,18,david,,maconith,farmington,15
+1856,11,19,rebecca,,frost,brunswick,5
+1856,11,19,mrs. andrew,j,perry,phippsburg,5
+1856,11,19,mrs. b,p,russell,phippsburg,5
+1856,11,19,david,j,perry,phippsburg,5
+1856,11,19,willliam,r,campbell,phippsburg,3
+1856,11,19,charles,,woodside,brunswick,3
+1856,11,21,d,,oliver,bath,50
+1856,11,21,john,,morse,jay,25
+1856,11,21,sally,,morse,jay,10
+1856,11,21,david,,allen,jay,25
+1856,11,21,henry,,ershine,montville,25
+1856,11,21,gonehus,,marden,sangerville,10
+1856,11,21,thomas,,marden,prospect,10
+1856,11,21,nancy,a,crommet,"dover, nh",5
+1856,11,24,joseph,,fogg,montville,25
+1856,11,26,alena,,whitrouh,dixmont,25
+1856,11,28,moses,,goodwin,east dixmont,10
+1856,12,6,ephriaim,,harding,east corinth,25
+1856,12,6,catherine,,harding,east corinth,10
+1856,12,8,joel,,moulton,greene,25
+1856,12,8,j,d,pulsifer,auburn,5
+1856,12,8,william,,hilbourne,auburn,5
+1856,12,8,maria,,fogg,hebron,1
+1856,12,10,william,c,stinson,pittsfield,50
+1856,12,10,amos,,worthen,corinna,50
+1856,12,13,alena,,southalie,rangeley,26
+1856,12,16,henry,,augustine,new sharon,25
+1856,12,18,jason,,king,monmouth,10
+1856,12,29,e.,e.,james,winthrop,10
+1856,12,31,calvin,,nealy,monroe,10
+1856,12,31,benj.,,bean,montville,10
+1857,1,5,charles,,gott,wagne,26.5
+1857,1,6,leonard,a,warthary,garland,35
+1857,1,7,sarah,,toothaker,south phillips,30
+1857,1,14,phillip,,winslow,gardiner,50
+1857,1,14,mrs. charles,,bean,bradford,100
+1857,1,20,levi,,birkin,w. waterville,50
+1857,2,10,mary,c,leighton,biddeford,5.24
+1857,3,4,william,,coonika,bradford,5
+1857,3,12,john,,conforth,waterville,25
+1857,3,13,josiah,,porter,e. dixmont,15
+1857,3,13,benj.,,dodge,e. dixmont,10
+1857,4,4,will,,toothaker,phillips,150
+1857,4,6,g,c. s.,bryant,so. dover,25
+1857,4,6,henry,,leeman,gardiner,5
+1857,4,8,nathaniel,,gammon,phillips,5
+1857,4,9,aathal,,andrews,palmyra,25
+1857,4,10,a sister,,,lewiston,1
+1857,4,10,hon,,hanibale,hamlin,100
+1857,4,10,rev.,m.,getchell,litchfield,5
+1857,4,10,james,l.,child,augusta,10
+1857,4,10,o.,,jordon,danville,5
+1857,4,10,david,,bailey,woolwich,2
+1857,4,10,s.,g.,bunker,sabattus,10
+1857,4,10,dosh,,burrell,cape elizabeth,5
+1857,4,10,sarah,r.,gage,w. waterville,10
+1857,4,10,thomas,,wilder,portland,10.6
+1857,4,10,charles,e.,barry,n. berwick,5
+1857,4,10,f.,w.,roberts,n. berwick,3
+1857,4,10,isaac,,coff,lebanon,25
+1857,4,10,benj,,woodside,brunswick,5
+1857,4,10,s.,p.,benson,winthrop,25
+1857,4,10,jesse ,,hayes,auburn,25
+1857,4,10,g.,j. ,frost,brunswick,25
+1857,4,10,henry,,merritt,brunswick,5
+1857,4,10,eunice ,,purrington,brunswick,4
+1857,4,10,m.p.g ,,crowley,lewiston,1
+1857,4,14,sand,,farnham,woolwich,50
+1857,4,14,nathl,,grams,vienna,5
+1857,4,14,j.,c.,sawyer,winthrop,15.6
+1857,4,18,thomas,,cinmos,georgetown,10
+1857,4,18,frederick,,rogers,georgetown,5
+1857,4,30,james,,rand,"amesbury, ma",25
+1857,4,30,j.,m. ,bailey,woolwich,10
+1857,4,30,seth,,mery,winthrop,25
+1857,5,8,saul,,heyhill,winthrop,25
+1857,5,8,g.,w.,prank,winthrop,25
+1857,5,8,matilda,,ward,brunswick,1
+1857,6,5,a friend in maine,,,maine,35
+1857,6,5,samuel,,woothrop,phillips,100
+1857,6,5,saul,,wheeler,chesterhill,50
+1857,6,5,borrowed of,,c. hrolton,,381.58
+1857,6,5,horace,r. ,cheney,lewiston,1
+1857,6,5,caroline,a. ,cheney,lewiston,1
+1857,6,5,george,c,smith,new hampton,1
+1857,6,5,thomas ,p. ,smith,new hampton,1
+1857,6,5,carrie,,hill,,1
+1857,6,5,ben,b. l. ,manson,lisbon,1
+1857,6,5,b.,l. ,manson,lisbon,0.5
+1857,6,5,miss c. ,o. ,libbey,parsonsfield,1
+1857,6,5,noah,,burnham,parsonsfield,5
+1857,6,5,elisha,,piper jr. ,parsonsfield,5
+1857,6,5,luther,,sanborn,parsonsfield,5
+1857,6,5,,,burbank,newsfield,2
+1857,6,5,,,,,0.5
+1857,6,5,s.,m. ,blake,bidderford,25
+1857,6,5,chenney ,,hobbes,berwick,25
+1857,6,5,d. ,,stinson,bidderford,25
+1857,6,5,j. ,l. ,kimball,bidderford,5
+1857,6,5,j. ,l. ,connery,saco,11
+1857,6,19,a friend,,,portland,NA
+1857,6,19,a friend,,,kittery,1
+1857,6,19,a lady,,,portland,15
+1857,6,19,a sister,,,portland,1
+1857,6,19,a sister friend,,,portland,1
+1857,6,19,friends,,,patterson,2
+1857,6,19,arnold,,bart,povwazm,14539.84
+1857,6,19,o. he,durgan,jaco,falmouth,21
+1857,6,19,clarke,miltton,bean,falmouth,5
+1857,6,19,joseph,,bocwin,falmouth,5
+1857,6,19,henry,,page,so. passonfield,5
+1857,6,19,lewvi ,,higluh,patterson,5
+1857,6,19,a.,,prince,patterson,5
+1857,6,19,b,,prince,patterson,3
+1857,6,19,susan,,jordan,baggmore,3
+1857,6,19,mary,ann,bizhia ,beacon hill,1
+1857,6,19,,,grahm,patterson,1
+1857,6,19,susan,,cox,biddeford,1
+1857,6,19,mary,e,staples,biddeford,1
+1857,6,19,d,,libbey,portland,5
+1857,6,19,betsey,,wrignt,portland,1
+1857,6,19,charlotte,p,sweet,portland,1
+1857,6,19,elias,libby,lilly,windham,10
+1857,6,19,e,b,sweet,falmouth,1
+1857,6,19,n,w,leighton,falmouth,5
+1857,6,19,c,j,allen,falmouth,5
+1857,6,19,willliam,ammi,bradbury,strafford nh,1
+1857,6,19,abbie,jane,bradbury,strafford nh,2
+1857,6,19,fredrick,whittier,bradbury,strafford nh,1
+1857,6,19,samuel,johnson,bradbury,strafford nh,1
+1857,6,19,charles,,bean,falmouth,15
+1857,6,19,susan,s,shaw,portland,1
+1857,6,19,lydia,ann,shaw,portland,1
+1857,6,19,edward,emerson,morries,portland,1
+1857,6,19,adrian,c,mcguire,portland,2
+1857,6,19,george,,conout,portland,10
+1857,6,19,m,a,leavitt,portland,5
+1857,6,19,emile,c,deering,portland,5
+1857,6,19,henry,w,deering,portland,2
+1857,6,19,clara,s,deering,portland,1
+1857,6,19,heather,a,deering,portland,1
+1857,6,19,charles,e,deering,portland,1
+1857,6,19,ellla,e,deering,portland,1
+1857,6,19,frank,w,nevers,limerick,1
+1857,6,19,anna,b,nevers,limerick,1
+1857,6,19,mrs.,,webster,portland,0.5
+1857,6,19,emma,,mcgguier,portland,1
+1857,6,19,j,w,symones,portland,1
+1857,6,19,rev.,l. l. ,harmon,scarboro,1
+1857,6,19,rev. ,j,marriner,camden ,1
+1857,6,19,j,r,leavett,portland,3
+1857,6,19,oliver,,hill,berwick,100
+1857,6,19,mrs. oliver,,hill,berwick,100
+1857,6,19,mary,e,kendall,bowdoinham,1
+1857,6,19,willie,,kendall,bowdoinham,1
+1857,6,19,caro,p,kendall,bowdoinham,1
+1857,6,19,augustino ,w,bults,new portland,1
+1857,6,19,jessie,,snow,brunswick,5
+1857,6,19,anne ,s,dudley,kingfield,1
+1857,6,19,james,r,smith,thorndike,1
+1857,6,19,john,f,smith,thorndike,1
+1857,6,23,oliver,,hill,berwick,300
+1857,6,23,benjamin,,evans,dexter,75
+1857,7,1,e,k,hart,,2.5
+1857,7,3,w,r,frye,,492.25
+1857,7,3,samuel,,southahu,phillips,100
+1857,7,13,ladus ,,cirste ,augusta,35
+1857,7,20,asa,,hutchinson,fayette,5
+1857,7,25,w,h,waldron,lewiston,50
+1857,8,3,geo,h,birlie ,,50
+1857,8,3,thomas,,parhin,farmington,35
+1857,8,10,a friend,,,bath,1
+1857,8,10,g,,randall,montville,0.5
+1857,8,10,,,libbetts,augusta,0.5
+1857,8,10,charles,,claph,bath,10
+1857,8,10,amos,,giddings,"danville, nh",10
+1857,8,10,abner,,snow,harpswell,1
+1857,8,10,den.,ai,brooks,lewiston,2
+1857,8,10,j.,s.,loring,lewiston,1
+1857,8,10,jennie,w,hoyt,phillips,1
+1857,8,10,g,s,monill,witon,5
+1857,8,10,thomas,,chaney,witon,2
+1857,8,10,asa,,butterfield,farmington,1
+1857,8,10,daniel,,lawlet,witon,5
+1857,8,10,?,,smith,sidney,1
+1857,8,10,susan,h,macombe,witon,1
+1857,8,10,lucinda,,lake,jay,1
+1857,8,10,s,p,monill,chesterville,5
+1857,8,10,ezra,,mitchell,minot,5
+1857,8,10,daniel,g,bartlett,harison,1
+1857,8,10,oren,d,bartlett,harison,1
+1857,8,10,marietta,,bartlett,harison,1
+1857,8,10,mary,,bartlett,harison,5
+1857,8,10,reuben,,holbs,harison,25
+1857,8,10,edward,,bray,harison,10
+1857,8,10,rufus,,harbill,poland,10
+1857,8,10,jonathan,,whitney,harison,2
+1857,8,10,c,o,libby,parsonsfield,24
+1857,8,10,william,,woodard,lewiston,25
+1857,8,10,william,,parsons,lewiston,1
+1857,8,10,ruth,,snett,lewiston,1
+1857,8,10,elizabeth,,davis,lewiston,1
+1857,8,10,m,,morrisey,lewiston,1
+1857,8,10,martha,w,libby,parsonsfield,1
+1857,8,10,phebe,p,libby,parsonsfield,1
+1857,8,10,susan,,libby,parsonsfield,1
+1857,8,10,emily,s,libby,parsonsfield,1
+1857,8,10,mary,e,libby,parsonsfield,1
+1857,8,10,alice,j,libby,parsonsfield,1
+1857,8,10,israel,w,marden,lewiston,1
+1857,8,10,a,m,jones,lewiston,1
+1857,8,10,jane,s,hamblin,lewiston,1
+1857,8,10,irene,,howl,lewiston,1
+1857,8,10,ann,m,wedgewood,lewiston,1
+1857,8,10,w,e,potter,lewiston,1
+1857,8,10,ellen,,perkins,lewiston,1
+1857,8,10,martha,,perkins,lewiston,1
+1857,8,10,eliza,,blanchard,lewiston,1
+1857,8,10,hannah,,stewart ,lewiston,1
+1857,8,10,susan,,robbins,lewiston,1
+1857,8,10,john,h,randall,montville,1
+1857,8,10,leo,h,randall,montville,1
+1857,8,10,mary,a ,randall,montville,1
+1857,8,10,charles,t,randall,montville,1
+1857,8,10,amanda,t,randall,montville,1
+1857,8,10,edward,p,hagg,montville,1
+1857,8,10,hannah,,hagg,montville,5
+1857,8,10,ellen,,knoulton,montville,1
+1857,8,10,hattie,t,knoulton,montville,1
+1857,8,10,abbie,,knoulton,montville,1
+1857,8,10,charles,e,knoulton,montville,1
+1857,8,10,caroline,,tune,montville,1
+1857,8,10,b,p,russell,danville,1
+1857,8,10,mary,j ,staples ,lewiston,1
+1857,8,10,augustus,j ,bengels ,lewiston,1
+1857,8,10,william,,hedge,edgeconch,15
+1857,8,10,martha,,sargent,monroe,1
+1857,8,10,maria,s,peckins,palemmo,5
+1857,8,10,ezekiel ,h,cook,lewiston,1
+1857,8,10,willie ,,hamilton,lewiston,1
+1857,8,10,lucy,s,myrick,lewiston,1
+1857,8,10,h,e,jones,lewiston,1
+1857,8,10,john,a,jones,lewiston,1
+1857,8,10,john,m,haynes,"dover, nh",1
+1857,8,10,charlotte ,p,haynes,"dover, nh",1
+1857,8,10,annie,s,littman,"dover, nh",1
+1857,8,10,horace ,a,hill,berwick,1
+1857,8,10,leo,d,hill,berwick,1
+1857,8,10,hiram,a,hill,berwick,1.05
+1857,8,10,s,s,perry,lewiston,2
+1857,8,10,esther,e. w.,hackett,lewiston,1
+1857,8,10,mary ,e,hackett,lewiston,1
+1857,8,10,martha,,abbott,lewiston,1
+1857,8,10,m,j,jameson,lewiston,1
+1857,8,10,frances,,fisher,lewiston,1
+1857,8,10,caroline,,croltree,hancock,1
+1857,8,10,frances,a.,lilley,atrinon,25
+1857,8,10,charles,h,cook,burnham,1
+1857,8,10,hegekiah,,chan,unity,10
+1857,8,10,ben,moses,stevens,springfield,25
+1857,8,10,calvin,,berry,hancock,10
+1857,8,10,samuel,,butman,plymouth,15
+1857,8,10,merill,p,jordan,limerick,1
+1857,8,10,e,,hutchins,"dover, n.h",100
+1857,8,10,george,,goss,lewiston,1
+1857,8,10,ellen,,anes,lewiston,1
+1857,8,25,william,,garcelon,lewiston,13.68
+1857,9,1,g,w,bean,augusta,51.25
+1857,9,3,charles,,bean,skowhegan,100
+1857,9,3,tristen,,hill,green,25
+1857,9,3,mary,p.c.,crowley,lewiston,1
+1857,9,3,abbie,a.,cobb,gray,1
+1857,9,3,abby,,bartlett,harrison,5
+1857,9,3,luke,,morill,falmouth,1
+1857,9,3,alexander,,freeman,lewiston,1
+1857,9,3,esther,m.,stihfield,poland,1
+1857,9,3,ben,e.,hutchins,dover n.h,3
+1857,9,3,josaphine,a.,lary,pittston,1
+1857,9,3,cyrus,e. ,hodgdon ,westport,1
+1857,9,3,geo,o.,haskell,topsham,1
+1857,9,3,alice,m. ,haskell,topsham,1
+1857,9,3,angela,b.,rogers,lewiston,1
+1857,9,3,a.,s.,hilton,parsonsfield,2
+1857,9,3,sylvester,,doe,parsonsfield,3
+1857,9,3,john,,oliver,phippsburg,5
+1857,9,3,harvey,,page,parsonsfield,1
+1857,9,3,s.,m.,page,parsonsfield,1
+1857,9,3,calvin,,page,parsonsfield,1
+1857,9,3,peregreen,,page,parsonsfield,1
+1857,9,3,cornelia,,page,parsonsfield,1
+1857,9,3,george,henry,goot,lewiston,1
+1857,9,3,john,morrison,goot,lewiston,1
+1857,9,3,jane,maria,goot,lewiston,1
+1857,9,3,e,,mymam,phippsburg,4
+1857,9,3,d.a ,,maddox,,25
+1857,9,3,thomas,,filis,,25
+1857,9,3,r.j,,prisrott,,20
+1857,9,3,jesse,,blanrhard,phillips,10
+1857,9,3,thomas,,hodgcloon,boothbay,75
+1857,9,3,robert,,phinney,,75
+1857,9,29,ben,d,libby,rorharvell,10
+1857,9,29,hathi,g,birhu,lewiston,1
+1857,9,29,kiram,w,loring,lewiston,9
+1857,9,29,julie,,prebble,lewiston,1
+1857,9,29,mary,,bennett,lewiston,1
+1857,9,29,lizzie,,welley,lewiston,1
+1857,9,29,helen,,brallbury,lewiston,1
+1857,9,29,mary ,e,nogin,lewiston,1
+1857,9,29,h. lucia,,bidell,farmington,1
+1857,9,29,brianna,,bidell,farmington,1
+1857,9,29,elena,,bidell,farmington,1
+1857,9,29,james,p,bahia,shong,10
+1857,9,29,abra,,joothehin,rangeley,25
+1857,9,29,mary,,lufterin,phillips,2
+1857,9,29,ella,s,morrill,willlow,1
+1857,9,29,g,w,bean,,500
+1857,10,1,geo,l,nutting,portland,5
+1857,10,1,john,h,bard,willow,1
+1857,10,1,warren,a,bard,wilow,1
+1857,10,1,henry ,g,wood,lewiston,2
+1857,10,1,nancy ,l,wood,lewiston,1
+1857,10,1,emma,l,wood,lewiston,1
+1857,10,1,edin,,wood,lewiston,1
+1857,10,1,b,c,prescott,farmington,25
+1857,10,1,b,c,perk,portland,100
+1857,10,20,e,p,hallettt,bath,50
+1857,10,20,charles,h,woodard,bangor,1
+1857,10,20,eliza,ellen,litchfield,lewiston,1
+1857,10,20,lucinda,e,litchfield,lewiston,1
+1857,10,20,oliver ,nills,dine,sabago,1
+1857,10,20,aaron,,ayer,,25
+1857,10,27,will,,whitton,brunswick,10
+1857,10,27,john,w,howes,china,10
+1857,11,9,will,,jonathan,phillips,160.72
+1857,11,9,thornes,,parhm,farmington,60
+1857,11,9,barnard,,mary,moulton,30
+1857,11,9,a friend,,,phillips,10
+1857,11,9,charles,henry,mason,hallowell,1
+1857,11,9,milham,freeman,sherman,hallowell,1
+1857,11,9,edmin,francis,nason,hallowell,1
+1857,11,9,james,g,wilham,castine,1
+1857,11,9,l,,harthorn,pittsfield,0.25
+1857,11,9,clara,j,dunn,lewiston,1
+1857,11,9,,,blaisdell,fullian,2.5
+1857,11,9,a,,deering,waterville,0.25
+1857,11,9,arthur,h,stamwood ,portland,1
+1857,11,9,emma,h,haynes,madison,1
+1857,11,9,florada,,hope,leeds,1
+1857,11,9,william,henry,willard,portland,1
+1857,11,9,ella ,h,great,portland,1
+1857,11,9,martha,,mutting,portland,1
+1857,11,9,mary,j,peck,portland,1
+1857,11,9,lloyd,g,peck,portland,1
+1857,11,9,eugenia,a,peck,portland,1
+1857,11,9,ben,d,peck,portland,1
+1857,11,9,edward,f,peck,portland,1
+1857,11,9,mary,m,parsons,portland,1
+1857,11,9,s,,bisbee,sumner,1
+1857,11,9,mamilla,,fogg,lewiston,4
+1857,11,10,delia,b. ,hall,"great falls, nh",1
+1857,11,10,h.,d.,james (ad),"great falls, nh",0.33
+1857,11,10,lauren,m.,james (ad),"great falls, nh",0.33
+1857,11,10,celia,a.,hall (ad),"great falls, nh",0.33
+1857,11,10,mr.,s.d.,eaton,"new hampton, nh",5
+1857,11,10,ben,j.m.,bedell,farmmington (ad),1.66
+1857,11,10,borrowed of morreua ,d.,fraruham,,40
+1857,11,20,thomas,,parker,farmington,300
+1857,11,20,bonowed,,,biru,200
+1857,11,20,samuel,,woodson,cornville,25
+1857,11,20,john,,gineau,wales,10
+1857,11,20,john,,confaith,waterville,25
+1857,11,20,john,,davis,,15
+1857,11,20,g,h,byron,bath,12.5
+1857,11,20,g,h,pillsbury,cape elizabeth,5
+1857,11,20,george,albert,peace,lewiston,1
+1857,11,20,fred,honest,peace,lewiston,1
+1857,11,25,saint,w.,perry,"plymouth, nh",5
+1857,11,26,seth,,hathorn,,518
+1857,11,30,edward,kercel and peushent,,,25
+1857,12,3,caleb,hodgors,,goham,100
+1857,12,3,ivory,fall,,"pt-falls, nh",5
+1857,12,3,jenne,w.,hog,philih,25
+1857,12,3,mary,r.,groshinam,austin,38
+1857,12,5,o.,w.,bridge,dexter,25
+1857,12,10,mark,mark,falron,newbury,10
+1857,12,10,j.,h.,lowell,lewiston,50
+1857,12,10,joshua has fill (2 jason novels sold) ,,topkiten*,,200
+1857,12,10,celina,,bettingill,wilton,50
+1857,12,10,daniel,,antoine,lake,10.25
+1857,12,14,daniel,w.,raury,litchfield,5.6
+1857,12,14,daniel,,peace,east wilton,1
+1857,12,14,l.,binaulic,peace,east wilton,1
+1857,12,14,jeremiah,,peace,east wilton,9
+1857,12,16,oliver,,pettingill,,10
+1857,12,16,mary ,p. ,tufts,,40
+1857,12,16,a.,p.,moody,saco,5
+1857,12,16,ben,j. m.,bedell,farmington,10
+1857,12,16,jeremiah,,peace,wilton,10
+1857,12,16,mary ,,yeagnea,wilton,10.75
+1857,12,16,g.,b.,dow,new sharon,1
+1857,12,16,h.,,ellnorth,farmington,1
+1857,12,16,a.,,friend,new sharon,0.25
+1857,12,16,sarah,e.,johnson,industry,1
